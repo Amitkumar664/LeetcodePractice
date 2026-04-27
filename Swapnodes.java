@@ -63,4 +63,4 @@ public class Solution {
         System.out.println("After Deletion:");
         printList(head);
     }
-} cc 
+} 
